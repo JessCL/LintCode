@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/jump-game
 @Language: C++
 @Datetime: 16-12-14 20:12

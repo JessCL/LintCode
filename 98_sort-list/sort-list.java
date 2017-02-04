@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/sort-list
 @Language: Java
 @Datetime: 16-12-24 19:48

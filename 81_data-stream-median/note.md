@@ -1,6 +1,6 @@
 ```
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/data-stream-median
 @Language: Markdown
 @Datetime: 16-12-20 05:48

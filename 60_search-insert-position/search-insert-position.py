@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/search-insert-position
 @Language: Python
 @Datetime: 16-10-29 04:27

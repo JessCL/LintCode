@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/longest-increasing-subsequence
 @Language: Python
 @Datetime: 16-12-10 00:00

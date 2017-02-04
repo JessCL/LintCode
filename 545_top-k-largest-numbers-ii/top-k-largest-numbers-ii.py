@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/top-k-largest-numbers-ii
 @Language: Python
 @Datetime: 16-12-17 22:33

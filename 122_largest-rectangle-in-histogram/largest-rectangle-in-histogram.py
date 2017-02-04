@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/largest-rectangle-in-histogram
 @Language: Python
 @Datetime: 16-11-19 18:29

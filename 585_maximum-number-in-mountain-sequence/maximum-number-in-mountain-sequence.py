@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/maximum-number-in-mountain-sequence
 @Language: Python
 @Datetime: 16-11-22 20:48

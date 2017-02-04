@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/palindrome-partitioning-ii
 @Language: Python
 @Datetime: 16-12-14 20:09

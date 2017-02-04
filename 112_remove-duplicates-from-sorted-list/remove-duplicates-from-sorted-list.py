@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/remove-duplicates-from-sorted-list
 @Language: Python
 @Datetime: 16-12-17 00:42

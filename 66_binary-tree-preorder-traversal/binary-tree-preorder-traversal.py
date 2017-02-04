@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/binary-tree-preorder-traversal
 @Language: Python
 @Datetime: 16-11-07 17:57

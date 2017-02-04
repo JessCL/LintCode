@@ -1,6 +1,6 @@
 ```
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/best-time-to-buy-and-sell-stock-ii
 @Language: Markdown
 @Datetime: 16-12-20 23:03

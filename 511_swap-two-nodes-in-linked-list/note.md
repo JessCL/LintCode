@@ -1,6 +1,6 @@
 ```
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/swap-two-nodes-in-linked-list
 @Language: Markdown
 @Datetime: 16-12-17 00:22

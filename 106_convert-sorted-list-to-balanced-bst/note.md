@@ -1,6 +1,6 @@
 ```
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/convert-sorted-list-to-balanced-bst
 @Language: Markdown
 @Datetime: 16-12-16 20:41

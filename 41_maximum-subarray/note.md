@@ -1,6 +1,6 @@
 ```
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/maximum-subarray
 @Language: Markdown
 @Datetime: 16-12-21 01:22

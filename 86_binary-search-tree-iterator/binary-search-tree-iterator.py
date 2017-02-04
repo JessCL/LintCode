@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/binary-search-tree-iterator
 @Language: Python
 @Datetime: 16-11-09 06:34

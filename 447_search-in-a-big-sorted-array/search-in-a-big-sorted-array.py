@@ -1,7 +1,7 @@
 # coding:utf-8
 '''
 @Copyright:LintCode
-@Author:   cong11
+@Author:   cong liu
 @Problem:  http://www.lintcode.com/problem/search-in-a-big-sorted-array
 @Language: Python
 @Datetime: 16-11-02 03:22
